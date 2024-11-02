@@ -93,10 +93,7 @@ echo Backup and deletion completed successfully!
 
 
 ## OUTPUT
-![Uploading image.png…]()
-
-
-
+![image](https://github.com/user-attachments/assets/9d71f17e-12b1-4687-b2bc-fa46619d7a9a)
 
 
 # RESULT:
